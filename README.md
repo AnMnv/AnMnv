@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
  ### My top open source projects
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=eBook)](https://github.com/Anmnv/eBook)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=eBook&theme=dracula)](https://github.com/Anmnv/eBook)
  
  
  ### Languages
