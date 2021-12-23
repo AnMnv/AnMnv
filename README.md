@@ -1,5 +1,6 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I'm Anton Mnatsakanov aka WinnieNotThePooh 
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<!--https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif-->
+### I'm Anton Mnatsakanov aka WinnieNotThePooh
 
 <!--
 **AnMnv/AnMnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,27 +17,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinnieNotThePooh)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinnieNotThePooh&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+ 
 
+<!--<h1 >  </h1>-->
 
+<h1 align='center'><i>My top open source projects</i></h1>
 
- ### My top open source projects
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=eBook&theme=dracula)](https://github.com/Anmnv/eBook)
  
  
- ### Languages
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+## Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
  
- ### Software and tools
+## Software and tools
  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
  
 ![](https://komarev.com/ghpvc/?username=Anmnv&color=green)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anmnv&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmnv&layout=compact&theme=dracula)](https://github.com/Anmnv/github-readme-stats)<img align="left" alt="Coding" width="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmnv&layout=compact&theme=dracula)](https://github.com/Anmnv/github-readme-stats)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmnv)](https://git.io/streak-stats)  
 
