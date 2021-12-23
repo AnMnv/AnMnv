@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 -->
  
 ![](https://komarev.com/ghpvc/?username=Anmnv&color=green)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anmnv&show_icons=true&theme=dracula)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmnv&layout=compact&theme=dracula)](https://github.com/Anmnv/github-readme-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmnv)](https://git.io/streak-stats)
 
