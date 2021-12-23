@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Anmnv)](https://github.com/Anmnv/eBook)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Anmnv)](https://github.com/Anmnv/github-readme-stats)
 
 
 
