@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 <!--https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif-->
 ### I'm Anton Mnatsakanov aka WinnieNotThePooh
 
