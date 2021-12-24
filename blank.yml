@@ -1,0 +1,17 @@
+name: Update README with my latest coding stats
+
+on:
+  schedule:
+    - cron: '30 5 * * *'
+
+jobs:
+  update-Readme:
+    name: Automatically update my README  
+    runs-on: ubuntu-latest
+    steps:
+      - uses: tariksahni/coding-stats-wakatime@v1.0.0
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_MONTHLY: false
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_ACTION: ${{ github.action }}
