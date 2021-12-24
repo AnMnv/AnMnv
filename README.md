@@ -41,9 +41,33 @@ Here are some ideas to get you started:
 
  [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
  
-![](https://komarev.com/ghpvc/?username=Anmnv&color=green)
-
+ <h1 align="left">Profiles:</h3>
+ 
+|StackOverflow |Tex - StackExchange | 
+|:--- |:---- | 
+|[![WinnieNotThePooh StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16992726)](https://stackoverflow.com/users/16992726/winnienotthepooh)| <a href="https://tex.stackexchange.com/users/217087/winnienotthepooh"><img src="https://tex.stackexchange.com/users/flair/217087.png" width="208" height="60" ></a>| 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmnv)](https://git.io/streak-stats)  
 
-
+![](https://komarev.com/ghpvc/?username=Anmnv&color=green)
