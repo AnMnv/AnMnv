@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinnieNotThePooh&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![WinnieNotThePooh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinnieNotThePooh&theme=dracula)](https://github.com/AnMnv/github-readme-stats)
 
- 
+  <img src="https://github.com/AnMnv/eBook/blob/master/images/codeStats.svg" alt="Alternative Text"/>
 
 <!--<h1 >  </h1>-->
 
