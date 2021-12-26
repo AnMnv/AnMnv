@@ -17,12 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![WinnieNotThePooh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinnieNotThePooh&theme=dracula)](https://github.com/AnMnv/github-readme-stats)
-
-  <img src="https://github.com/AnMnv/eBook/blob/master/images/codeStats.svg" alt="Alternative Text"/>
-  
-  <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+ 
 
 
 <!--<h1 >  </h1>-->
@@ -72,6 +67,6 @@ Here are some ideas to get you started:
  
  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmnv)](https://git.io/streak-stats)  
+ 
 
 ![](https://komarev.com/ghpvc/?username=Anmnv&color=green)
