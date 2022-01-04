@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-<img src="https://wakatime.com/share/@WinnieNotThePooh/572aa41a-fdf3-4c3b-ae28-539f4cb2ef13.svg" width="400" height="400"/><img src="https://wakatime.com/share/@WinnieNotThePooh/a9930f63-85f7-48bf-ae19-e5a4fec68229.svg" width="400" height="400"/> 
+
 
 <!--<h1 >  </h1>-->
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 |:--- |:---- | 
 |[![WinnieNotThePooh StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16992726)](https://stackoverflow.com/users/16992726/winnienotthepooh)| <a href="https://tex.stackexchange.com/users/217087/winnienotthepooh"><img src="https://tex.stackexchange.com/users/flair/217087.png" width="208" height="60" ></a>| 
  
- 
+ <img src="https://wakatime.com/share/@WinnieNotThePooh/c54176bc-c80e-4bd2-a01f-d85297cfcadd.svg" width="350" height="350"/><img src="https://wakatime.com/share/@WinnieNotThePooh/a9930f63-85f7-48bf-ae19-e5a4fec68229.svg" width="350" height="350"/> 
  
  
  
