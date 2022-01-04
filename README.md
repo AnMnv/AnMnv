@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-<figure><embed src="https://wakatime.com/share/@WinnieNotThePooh/3040a872-af45-4240-a405-75c08d78866c.svg"></embed></figure> 
+<img src="https://wakatime.com/share/@WinnieNotThePooh/572aa41a-fdf3-4c3b-ae28-539f4cb2ef13.svg" width="400" height="400"/> 
+<img src="https://wakatime.com/share/@WinnieNotThePooh/a9930f63-85f7-48bf-ae19-e5a4fec68229.svg" width="400" height="400"/> 
 
 <!--<h1 >  </h1>-->
 
