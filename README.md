@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  
  
 <h1 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="c" width="40" height="40"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="c" width="40" height="40"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svgg" alt="c" width="40" height="40"/> </p> 
+<p align="left"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="c" width="40" height="40"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="c" width="40" height="40"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="c" width="40" height="40"/> </p> 
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
  
