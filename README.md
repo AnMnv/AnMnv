@@ -26,22 +26,26 @@ Here are some ideas to get you started:
 
 <!--<h1 >  </h1>-->
 
-<h1 align='center'><i>My top open source projects</i></h1>
+> <h1 align="left">My top open source projects </h3>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=eBook&theme=dracula)](https://github.com/Anmnv/eBook)
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=eBook&theme=dracula)](https://github.com/Anmnv/eBook)
- 
- 
  
 > <h1 align="left">Languages and Tools:</h3>
-> <p align="left"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="c" width="40" height="40"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="c" width="40" height="40"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="c" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="c" width="40" height="40"/> </p> 
+> <p align="left"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="c" width="40" height="40"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="c" width="40" height="40"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="c" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="c" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" alt="c" width="40" height="40"/> 
+ 
+ 
 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+ > ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+ </p> 
  
  ***
+ 
+ ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anmnv&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmnv&layout=compact&theme=dracula)](https://github.com/Anmnv/github-readme-stats)
+
 
  [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
  
@@ -57,7 +61,8 @@ Here are some ideas to get you started:
  
  
  
- 
+ > <h1 align="left">Random meme </h3>
+ > <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
  
  
  
