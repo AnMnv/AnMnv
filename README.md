@@ -4,8 +4,8 @@
 ## My top open source projects 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=eBook&theme=dracula)](https://github.com/Anmnv/eBook)<img align="right" alt="Coding" width="220" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-***
-
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ 
 <details>
 <summary>🛠 Languages and Tools: </summary>
  
@@ -15,7 +15,7 @@
  </p> 
  </details>
  
- ***
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
   
 <details>
 <summary>📈 My GitHub Stats</summary>
@@ -26,7 +26,7 @@
 >![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 </details>
 
-***
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
  <!--[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)-->
@@ -42,14 +42,7 @@
  > <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." alt="TheAbbie" width="400">
  
  
- 
- 
- 
- 
- 
- 
- 
- 
+
  
  
  <p align="center">
