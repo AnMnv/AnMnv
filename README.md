@@ -1,16 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+and+Wellcome+to+my+GitHub;I'm+Anton+Mn.+aka+WinnieNotThePooh)](https://git.io/typing-svg)
-
  
-
-
-
- 
-<!-- 
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
- -->
 
 ## My top open source projects 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=eBook&theme=dracula)](https://github.com/Anmnv/eBook)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=eBook&theme=dracula)](https://github.com/Anmnv/eBook)<img align="right" alt="Coding" width="220" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ***
 
@@ -28,10 +20,10 @@
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anmnv&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmnv&layout=compact&theme=dracula)](https://github.com/Anmnv/github-readme-stats)
+>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anmnv&show_icons=true&theme=dracula)
+>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmnv&layout=compact&theme=dracula)](https://github.com/Anmnv/github-readme-stats)
 
- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+>![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 </details>
 
 ***
@@ -65,5 +57,8 @@
 </p>
 
  
+## Show your support 🌈
 
-![](https://komarev.com/ghpvc/?username=Anmnv&color=green)
+Be sure to drop a 🌟 if you like the project!
+
+![align="right"](https://komarev.com/ghpvc/?username=Anmnv&color=green)
