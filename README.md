@@ -15,6 +15,16 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
  
+
+ 
+ 
+
+ <p align="center">
+    <img src=" profile-3d-contrib/profile-south-season.svg" />
+</p>
+
+ <br />
+ 
 ## 🛠 Languages 
 
 <p align="center">
@@ -56,12 +66,12 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anmnv&show_icons=true&theme=dracula)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmnv&layout=compact&theme=dracula)](https://github.com/Anmnv/github-readme-stats)
- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+ 
  
 
  
 
- 
+
  
  
  
@@ -76,14 +86,17 @@
  
  <h1 align="left">Profiles:</h3>
  
-|StackOverflow |Tex - StackExchange | 
-|:--- |:---- | 
-|[![WinnieNotThePooh StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16992726)](https://stackoverflow.com/users/16992726/winnienotthepooh)| <a href="https://tex.stackexchange.com/users/217087/winnienotthepooh"><img src="https://tex.stackexchange.com/users/flair/217087.png" width="208" height="60" ></a>| 
+|StackOverflow |Tex - StackExchange|CodeWars|
+|:--- |:---- | :---- |
+|[![WinnieNotThePooh StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16992726)](https://stackoverflow.com/users/16992726/winnienotthepooh)| <a href="https://tex.stackexchange.com/users/217087/winnienotthepooh"><img src="https://tex.stackexchange.com/users/flair/217087.png" width="208" height="60" ></a>| ![](https://github-readme-codewars-stats.herokuapp.com/api/?username=AnMnV&card&colormode=dark_mode) |
 
-![](https://github-readme-codewars-stats.herokuapp.com/api/?username=AnMnV&badge&colormode=dark_mode)
+
  
-## Random meme for You 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." alt="TheAbbie" width="400">
+ ## Time for fun
+ |Random meme| Dynamic quote| 
+|:--- |:---- | 
+|<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." alt="TheAbbie" width="400"> | ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)| 
+ 
  
  
 
