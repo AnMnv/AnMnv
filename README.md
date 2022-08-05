@@ -16,26 +16,25 @@
  
  
 ## 🛠 Languages 
- 
-<p align="center"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="c" width="40" height="40"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="c" width="40" height="40"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="c" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="c" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" alt="c" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="c" width="40" height="40"/> 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,go,latex,haskell,python,md" />
+    <img src="https://skillicons.dev/icons?i=cpp,go,latex,haskell,python,md,cs" />
   </a>
 </p>
 
+
+
 ## 💻 Software and tools
 
- <p align="center">
- <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
- <img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
- <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
- <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,unity,blender,linux" />
+  </a>
 </p>
 
-   
  
+   
 
 
 
@@ -103,6 +102,14 @@ Be sure to drop a 🌟 if you like the project!
   
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya_sciencepal/)  &nbsp; <a href="mailto:antoniys@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
+  
+   
+<details>
+    <summary><b>🛠️ Languages & Tools</b></summary><br/>
+    Sample text
+</details>
+  
+  
 
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
