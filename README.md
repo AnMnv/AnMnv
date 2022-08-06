@@ -1,5 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+and+Wellcome+to+my+GitHub;I'm+Anton+Mn.+aka+WinnieNotThePooh)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Drop%20a%20🌟&fontSize=90&animation=fadeIn&fontAlignY=38&desc=if%20you%20like%20my%20project!&descAlignY=51&descAlign=62)
 
+ 
+<img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Hi+and+Wellcome+to+my+GitHub;I'm+Anton+Mn.+aka+WinnieNotThePooh" />
+ 
+  
 <p align="center">
   <a href="https://github.com/AnMnV?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/AnMnV?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -10,7 +14,7 @@
 
 
 ## My top open source projects 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=eBook&theme=dracula)](https://github.com/Anmnv/eBook)<img align="right" alt="Coding" width="220" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/tenor.gif" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=eBook&theme=dracula)](https://github.com/Anmnv/eBook)
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -98,30 +102,22 @@
 |<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." alt="TheAbbie" width="400"> | ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)| 
  
  
- 
-
- 
- 
  <!--<p align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/></p>-->
 
  
-## Show your support 🌈
-
-Be sure to drop a 🌟 if you like the project!
-
-![align="right"](https://komarev.com/ghpvc/?username=Anmnv&color=green)
-
- 
-  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya_sciencepal/)  &nbsp; <a href="mailto:antoniys@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+## How to reach me
+<a href="mailto:antoniys@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
   
    
 <details>
     <summary><b>Yes</b></summary><br/>
- <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif" />
 </details>
   
+## trust me
+ <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif" />
+<br>
+<br> 
   
 
 <!--🦶FOOTER--> 
