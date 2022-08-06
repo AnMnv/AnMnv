@@ -10,7 +10,8 @@
 
 
 ## My top open source projects 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=eBook&theme=dracula)](https://github.com/Anmnv/eBook)<img align="right" alt="Coding" width="220" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=eBook&theme=dracula)](https://github.com/Anmnv/eBook)<img align="right" alt="Coding" width="220" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/tenor.gif" />
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
@@ -117,8 +118,8 @@ Be sure to drop a 🌟 if you like the project!
   
    
 <details>
-    <summary><b>🛠️ Languages & Tools</b></summary><br/>
-    Sample text
+    <summary><b>Yes</b></summary><br/>
+ <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif" />
 </details>
   
   
