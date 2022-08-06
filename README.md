@@ -105,7 +105,7 @@
  <!--<p align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/></p>-->
 
  
-## How to reach me
+## 📫 How to reach me
 <a href="mailto:antoniys@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
   
