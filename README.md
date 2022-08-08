@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Drop%20a%20🌟&fontSize=90&animation=fadeIn&fontAlignY=38&desc=if%20you%20like%20my%20project!&descAlignY=51&descAlign=62)
 
+![MyAwesomeWebDevStack](https://awesome-stack.glitch.me/api/v1/cards?name=anmnv&repos=3UnityGames,vue-generator-graph,awesome-stack&theme=dracula)
  
 <img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Hi+and+Wellcome+to+my+GitHub;I'm+Anton+Mn.+aka+WinnieNotThePooh" />
  
@@ -39,20 +40,20 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,go,latex,haskell,python,md,cs" />
+    <img src="https://skillicons.dev/icons?i=cpp,go,latex,haskell,python,md,cs,bash" />
   </a>
 </p>
 
+
+
 <br />
 <h2 align="center">
-  💻 Software and tools💻
+  💻 Software 💻
  </h2>
-
- 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,unity,blender,linux" />
+    <img src="https://skillicons.dev/icons?i=git,unity,blender,linux,atom,github,ai,stackoverflow" />
   </a>
 </p>
 
