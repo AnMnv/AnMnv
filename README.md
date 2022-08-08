@@ -13,10 +13,11 @@
 </p>
 
 
-## My top open source projects 
+## My top projects 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=eBook&theme=dracula)](https://github.com/Anmnv/eBook)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=3UnityGames&theme=dracula)](https://github.com/Anmnv/3UnityGames)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=3UnityGames&theme=nightowl)](https://github.com/Anmnv/3UnityGames)
 
+ 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
 
@@ -29,7 +30,12 @@
 
  <br />
  
-## 🛠 Languages 
+ 
+
+<br />
+<h2 align="center">
+  🛠 Languages | Tools | Experience  🛠
+ </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,9 +43,12 @@
   </a>
 </p>
 
+<br />
+<h2 align="center">
+  💻 Software and tools💻
+ </h2>
 
-
-## 💻 Software and tools
+ 
 
 <p align="center">
   <a href="https://skillicons.dev">
