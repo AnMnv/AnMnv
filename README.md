@@ -1,12 +1,15 @@
 
 
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Drop%20a%20🌟&fontSize=90&animation=fadeIn&fontAlignY=38&desc=if%20you%20like%20my%20project!&descAlignY=51&descAlign=62)
 
  
- 
-<img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Hi+and+Wellcome+to+my+GitHub;I'm+Anton+Mn.+aka+WinnieNotThePooh" />
+
+||| 
+|:--- |:---- | 
+| <img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Hi+and+Wellcome+to+my+GitHub;I'm+Anton+Mn.+aka+WinnieNotThePooh" />|<img align="right" src="https://github.com/anmnv/AnMnv.github.io/blob/main/IEEE_cert.png?raw=true" alt="alt text" width="200" /> | 
+
+
+
  
   
 <p align="center">
@@ -96,7 +99,7 @@
 ## 📈  Stats  
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anmnv&show_icons=true&theme=dracula)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmnv&layout=compact&theme=dracula)](https://github.com/Anmnv/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmnv&layout=compact&theme=dracula)](https://github.com/Anmnv/github-readme-stats)<img align="right" src="https://github.com/anmnv/AnMnv.github.io/blob/main/IEEE_cert.png?raw=true" alt="alt text" width="200" />
  
  
 
