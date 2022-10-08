@@ -102,7 +102,7 @@
 ## 📈  Stats  
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anmnv&show_icons=true&theme=dracula)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmnv&layout=compact&theme=dracula)](https://github.com/Anmnv/github-readme-stats)<img align="right" src="https://github.com/anmnv/AnMnv.github.io/blob/main/IEEE_cert.png?raw=true" alt="alt text" width="200" />
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmnv&layout=compact&theme=dracula)](https://github.com/Anmnv/github-readme-stats)
  
  
 
