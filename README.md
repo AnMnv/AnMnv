@@ -3,10 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Drop%20a%20🌟&fontSize=90&animation=fadeIn&fontAlignY=38&desc=if%20you%20like%20my%20project!&descAlignY=51&descAlign=62)
 
  
-
-||| 
-|:--- |:---- | 
-| <img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Hi+and+Wellcome+to+my+GitHub;I'm+Anton+Mn.+aka+WinnieNotThePooh" />|<img align="right" src="https://github.com/anmnv/AnMnv.github.io/blob/main/IEEE_cert.png?raw=true" alt="alt text" width="200" /> | 
+<center>
+ 
+|<div style="width:2900px">It's me</div> | And it's me also| 
+|-------------|:-------------:|
+|<img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Hi+and+Wellcome+to+my+GitHub;I'm+Anton+aka+WinnieNotThePooh" />|<img align="right" src="https://github.com/anmnv/AnMnv.github.io/blob/main/IEEE_cert.png?raw=true" alt="alt text" width="350" /> |
+ 
+</center>
 
 
 
