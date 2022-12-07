@@ -27,7 +27,7 @@
 ## My top projects 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=eBook&theme=dracula)](https://github.com/Anmnv/eBook)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=3UnityGames&theme=nightowl)](https://github.com/Anmnv/3UnityGames)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=Ultimate-Telegram-Bot&theme=nightowl)](https://github.com/AnMnv/Ultimate-Telegram-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=Ultimate-Telegram-Bot&theme=chartreuse-dark)](https://github.com/AnMnv/Ultimate-Telegram-Bot)
 
  
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
