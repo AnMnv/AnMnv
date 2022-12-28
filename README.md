@@ -142,6 +142,8 @@
  
 ## 📫 How to reach me
 <a href="mailto:antoniys@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+[![name](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anmnv)
+
 
   
    
