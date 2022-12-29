@@ -3,13 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Drop%20a%20🌟&fontSize=90&animation=fadeIn&fontAlignY=38&desc=if%20you%20like%20my%20project!&descAlignY=51&descAlign=62)
 
  
-<center>
+<!---<center>
  
 |<div style="width:2900px">It's me</div> | And it's me also| 
 |-------------|:-------------:|
 |<img align="center" src="https://readme-typing-svg.herokuapp.com?lines=Hi+and+Wellcome+to+my+GitHub;I'm+Anton+aka+WinnieNotThePooh" />|<img align="right" src="https://github.com/anmnv/AnMnv.github.io/blob/main/IEEE_cert.png?raw=true" alt="alt text" width="350" /> |
  
-</center>
+</center> -->
 
 
 
@@ -100,7 +100,7 @@
 
 
    
-## 📈  Stats  
+### 📈  Stats  
 
 <!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anmnv&show_icons=true&theme=dracula)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmnv&layout=compact&theme=dracula)](https://github.com/Anmnv/github-readme-stats)>-->
@@ -112,7 +112,9 @@
 [![](https://raw.githubusercontent.com/AnMnv/AnMnv/main/profile-summary-card-output/gruvbox/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/AnMnv/AnMnv/main/profile-summary-card-output/gruvbox/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
  
-
+### My Trophies
+![trophies](https://github-profile-trophy.vercel.app/?username=anmnv&column=8&row=1&theme=onedark&no-frame=true&no-bg=false&count_private=true)
+<!--Trophies-->
 
  
  
