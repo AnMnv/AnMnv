@@ -111,6 +111,18 @@
 [![](https://raw.githubusercontent.com/AnMnv/AnMnv/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/AnMnv/AnMnv/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/AnMnv/AnMnv/main/profile-summary-card-output/gruvbox/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/AnMnv/AnMnv/main/profile-summary-card-output/gruvbox/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+
+<details>
+    <summary><b>More Stats</b></summary><br/>
+    https://metrics.lecoq.io/insights/anmnv
+    
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/anmnv)](https://githubtrends.io)
+</details>
+
+
+
+
+
  
 ### My Trophies
 ![trophies](https://github-profile-trophy.vercel.app/?username=anmnv&column=8&row=1&theme=onedark&no-frame=true&no-bg=false&count_private=true)
