@@ -147,7 +147,7 @@ https://www.githubtrends.io/wrapped/anmnv
  ## Time for fun
  |Random meme| Dynamic quote| 
 |:--- |:---- | 
-|<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." alt="TheAbbie" width="400"> | ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)| 
+|<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." alt="TheAbbie" width="400"> | <img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>| 
  
  
  <!--<p align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/></p>-->
