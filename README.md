@@ -177,5 +177,5 @@ https://www.githubtrends.io/wrapped/anmnv
   
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
  
-<!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+<!--🦶FOOTER
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">--> 
