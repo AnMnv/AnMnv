@@ -1,5 +1,4 @@
 
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Drop%20a%20🌟&fontSize=90&animation=fadeIn&fontAlignY=38&desc=if%20you%20like%20my%20project!&descAlignY=51&descAlign=62)
 
  
