@@ -70,7 +70,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,go,latex,haskell,python,md,cs,bash" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,latex,haskell,python,md,bash" />
   </a>
 </p>
 
