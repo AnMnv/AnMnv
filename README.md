@@ -151,10 +151,12 @@ https://www.githubtrends.io/wrapped/anmnv
 
 
  
- ## Time for fun
- |Random meme| Dynamic quote| 
+
+
+ ## Time for quote
+ |Favorite quote| Dynamic fun quote| 
 |:--- |:---- | 
-|<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." alt="TheAbbie" width="400"> | <img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>| 
+|[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=nord)](https://github.com/piyushsuthar/github-readme-quotes) | <img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>| 
  
  
  <!--<p align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/></p>-->
