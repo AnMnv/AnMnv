@@ -154,7 +154,7 @@ https://www.githubtrends.io/wrapped/anmnv
 
 
  ## Time for quote
- |Favorite quote| Dynamic fun quote| 
+ |Quote of the day| Dynamic fun quote| 
 |:--- |:---- | 
 |[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=nord)](https://github.com/piyushsuthar/github-readme-quotes) | <img src="https://readme-jokes.vercel.app/api?theme=default" width="100%"/>| 
  
