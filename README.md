@@ -10,7 +10,6 @@
  
 </center> -->
 
-<a href="https://xn--r1a.link/share/url?url=https%3A%2F%2Ft.me%2F%2BSZNHOZmMTldmMjhi">Telegram</a>
 
  
   
@@ -58,13 +57,17 @@
  
  
 
- <p align="center">
+ <!--- <p align="center">
     <img src=" profile-3d-contrib/profile-south-season.svg" />
-</p>
+</p> -->
 
  <br />
  
- 
+ <!--- stats (start) -->
+<p align="center">
+<img src="https://myreadme.vercel.app/api/embed/AnMnV?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<!--- stats (end) -->
+</p>
 
 <br />
 <h2 align="center">
