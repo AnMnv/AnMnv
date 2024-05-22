@@ -44,31 +44,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
- 
- 
-
- <!--- <p align="center">
-    <img src=" profile-3d-contrib/profile-south-season.svg" />
-</p> -->
-
- <br />
- 
- <!--- stats (start) -->
-<p align="center">
-<img src="https://myreadme.vercel.app/api/embed/AnMnV?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-<!--- stats (end) -->
-</p>
-
 <br />
 <h2 align="center">
   🛠 Languages | Tools | Experience  🛠
@@ -113,7 +88,29 @@
 
 
    
-### 📈  Stats  
+#  📈  Stats  
+
+## Github Stats
+
+
+ <!--- <p align="center">
+    <img src=" profile-3d-contrib/profile-south-season.svg" />
+</p> -->
+
+ <br />
+ 
+ <!--- stats (start) -->
+<p align="center">
+<img src="https://myreadme.vercel.app/api/embed/AnMnV?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<!--- stats (end) -->
+</p>
+
+
+## Code::stats
+
+![Aviortheking's Code::Stats stats](https://codestats-readme.avior.me/api?username=anmnv&show_icons=true&theme=nightowl)
+
+
 <!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anmnv&show_icons=true&theme=dracula)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmnv&layout=compact&theme=dracula)](https://github.com/Anmnv/github-readme-stats)>-->
  
