@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,latex,haskell,python,md,bash,bots" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,latex,rust,haskell,python,md,bash,bots" />
   </a>
 </p>
 
@@ -106,9 +106,9 @@
 </p>
 
 
-## Code::stats
+ <!---## Code::stats
 
-![Aviortheking's Code::Stats stats](https://codestats-readme.avior.me/api?username=anmnv&show_icons=true&theme=nightowl)
+![Aviortheking's Code::Stats stats](https://codestats-readme.avior.me/api?username=anmnv&show_icons=true&theme=nightowl)-->
 
 
 <!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anmnv&show_icons=true&theme=dracula)
@@ -121,7 +121,7 @@
 [![](https://raw.githubusercontent.com/AnMnv/AnMnv/main/profile-summary-card-output/gruvbox/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/AnMnv/AnMnv/main/profile-summary-card-output/gruvbox/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
- ![Codewars](https://github.r2v.ch/codewars?user=AnMnV&top_languages=true)
+ <!--![Codewars](https://github.r2v.ch/codewars?user=AnMnV&top_languages=true)-->
 
 <details>
     <summary><b>More Stats</b></summary><br/>
