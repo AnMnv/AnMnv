@@ -150,10 +150,13 @@ https://www.githubtrends.io/wrapped/anmnv
  
  <h1 align="left">Profiles:</h3>
  
-|StackOverflow |Tex - StackExchange|CodeWars|
-|:--- |:---- | :---- |
-|[![WinnieNotThePooh StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16992726)](https://stackoverflow.com/users/16992726/winnienotthepooh)| <a href="https://tex.stackexchange.com/users/217087/winnienotthepooh"><img src="https://tex.stackexchange.com/users/flair/217087.png" width="208" height="60" ></a>| ![Codewars](https://github.r2v.ch/codewars?user=AnMnV&top_languages=true)|
+<!--|StackOverflow |Tex - StackExchange|CodeWars|-->
+<!--|:--- |:---- | :---- |-->
+<!--|[![WinnieNotThePooh StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16992726)](https://stackoverflow.com/users/16992726/winnienotthepooh)| <a href="https://tex.stackexchange.com/users/217087/winnienotthepooh"><img src="https://tex.stackexchange.com/users/flair/217087.png" width="208" height="60" ></a>| ![Codewars](https://www.codewars.com/users/AnMnV/badges/large)| -->
 
+|StackOverflow |Tex - StackExchange|
+|:--- |:---- |
+|[![WinnieNotThePooh StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16992726)](https://stackoverflow.com/users/16992726/winnienotthepooh)| <a href="https://tex.stackexchange.com/users/217087/winnienotthepooh"><img src="https://tex.stackexchange.com/users/flair/217087.png" width="208" height="60" ></a>|
 
  
 
