@@ -29,7 +29,10 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=eBook&theme=dracula)](https://github.com/Anmnv/eBook)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=latex-skill-icons&theme=yeblu)](https://github.com/AnMnv/latex-skill-icons)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=latex-skill-icons&theme=ocean_dark)](https://github.com/AnMnv/latex-skill-icons)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=python-image-compressor&theme=vue-dark)](https://github.com/AnMnv/python-image-compressor)
+
 
 ### Other projects 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=3UnityGames&theme=nightowl)](https://github.com/Anmnv/3UnityGames)
