@@ -24,20 +24,35 @@
 
 ## My top projects 
 
-<!--[![anmnv/eBook - GitHub](https://gh-card.dev/repos/anmnv/eBook.svg)](https://github.com/anmnv/eBook) [![anmnv/anmnv - GitHub](https://gh-card.dev/repos/anmnv/anmnv.svg)](https://github.com/anmnv/anmnv) [![anmnv/Ultimate-Telegram-Bot - GitHub](https://gh-card.dev/repos/anmnv/Ultimate-Telegram-Bot.svg)](https://github.com/anmnv/Ultimate-Telegram-Bot) [![anmnv/3UnityGames - GitHub](https://gh-card.dev/repos/anmnv/3UnityGames.svg)](https://github.com/anmnv/3UnityGames)
--->
+
+ 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=eBook&theme=dracula)](https://github.com/Anmnv/eBook)
+[![eBook](https://img.shields.io/badge/eBook-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anmnv/eBook)
+[![Latex Skill Icons](https://img.shields.io/badge/latex_skill_icons-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anmnv/latex-skill-icons)
+[![Python Image Compressor](https://img.shields.io/badge/python_image_compressor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anmnv/python-image-compressor)
+
+
+
+[![anmnv/eBook - GitHub](https://gh-card.dev/repos/anmnv/eBook.svg)](https://github.com/anmnv/eBook) 
+[![https://github.com/anmnv/eBook](https://gh-card.dev/repos/anmnv/eBook.svg)](https://github.com/AnMnv/latex-skill-icons)
+
+ [![anmnv/anmnv - GitHub](https://gh-card.dev/repos/anmnv/anmnv.svg)](https://github.com/anmnv/anmnv) 
+  <!---[![anmnv/Ultimate-Telegram-Bot - GitHub](https://gh-card.dev/repos/anmnv/Ultimate-Telegram-Bot.svg)](https://github.com/anmnv/Ultimate-Telegram-Bot) -->
+ [![anmnv/3UnityGames - GitHub](https://gh-card.dev/repos/anmnv/3UnityGames.svg)](https://github.com/anmnv/3UnityGames)
+ 
+
+
+  <!---[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=eBook&theme=dracula)](https://github.com/Anmnv/eBook)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=latex-skill-icons&theme=ocean_dark)](https://github.com/AnMnv/latex-skill-icons)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=python-image-compressor&theme=vue-dark)](https://github.com/AnMnv/python-image-compressor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=python-image-compressor&theme=vue-dark)](https://github.com/AnMnv/python-image-compressor)-->
 
 
-### Other projects 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=3UnityGames&theme=nightowl)](https://github.com/Anmnv/3UnityGames)
+ <!---### Other projects 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=3UnityGames&theme=nightowl)](https://github.com/Anmnv/3UnityGames)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=Ultimate-Telegram-Bot&theme=chartreuse-dark)](https://github.com/AnMnv/Ultimate-Telegram-Bot) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=Anmnv&theme=gruvbox)](https://github.com/anmnv/anmnv) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anmnv&repo=Anmnv&theme=gruvbox)](https://github.com/anmnv/anmnv) -->
 
 
 
