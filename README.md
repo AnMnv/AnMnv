@@ -29,17 +29,17 @@
 
 
 [![eBook](https://img.shields.io/badge/eBook-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anmnv/eBook)
+
 [![Latex Skill Icons](https://img.shields.io/badge/latex_skill_icons-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anmnv/latex-skill-icons)
+
 [![Python Image Compressor](https://img.shields.io/badge/python_image_compressor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anmnv/python-image-compressor)
 
 
 
-[![anmnv/eBook - GitHub](https://gh-card.dev/repos/anmnv/eBook.svg)](https://github.com/anmnv/eBook) 
-[![https://github.com/anmnv/eBook](https://gh-card.dev/repos/anmnv/eBook.svg)](https://github.com/AnMnv/latex-skill-icons)
+ <!---[![anmnv/eBook - GitHub](https://gh-card.dev/repos/anmnv/eBook.svg)](https://github.com/anmnv/eBook) -->
+[![https://github.com/anmnv/eBook](https://gh-card.dev/repos/anmnv/eBook.svg)](https://github.com/AnMnv/latex-skill-icons) [![anmnv/anmnv - GitHub](https://gh-card.dev/repos/anmnv/anmnv.svg)](https://github.com/anmnv/anmnv)  [![anmnv/anmnv - GitHub](https://gh-card.dev/repos/anmnv/latex-skill-icons.svg)](https://github.com/Anmnv/latex-skill-icons)  [![anmnv/3UnityGames - GitHub](https://gh-card.dev/repos/anmnv/3UnityGames.svg)](https://github.com/anmnv/3UnityGames)
 
- [![anmnv/anmnv - GitHub](https://gh-card.dev/repos/anmnv/anmnv.svg)](https://github.com/anmnv/anmnv) 
-  <!---[![anmnv/Ultimate-Telegram-Bot - GitHub](https://gh-card.dev/repos/anmnv/Ultimate-Telegram-Bot.svg)](https://github.com/anmnv/Ultimate-Telegram-Bot) -->
- [![anmnv/3UnityGames - GitHub](https://gh-card.dev/repos/anmnv/3UnityGames.svg)](https://github.com/anmnv/3UnityGames)
+   <!---[![anmnv/Ultimate-Telegram-Bot - GitHub](https://gh-card.dev/repos/anmnv/Ultimate-Telegram-Bot.svg)](https://github.com/anmnv/Ultimate-Telegram-Bot) -->
  
 
 
